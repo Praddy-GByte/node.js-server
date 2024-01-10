@@ -1,0 +1,38 @@
+{
+  "Sensor-1": {
+    "enabled": true,
+    "ws_port": 6110,
+    "minValue": 0,
+    "maxValue": 100
+  },
+  "Sensor-2": {
+    "enabled": true,
+    "ws_port": 6120,
+    "minValue": 101,
+    "maxValue": 200
+  },
+  "Sensor-3": {
+    "enabled": true,
+    "ws_port": 6130,
+    "minValue": 201,
+    "maxValue": 300
+  },
+  "Sensor-4": {
+    "enabled": true,
+    "ws_port": 6140,
+    "minValue": 301,
+    "maxValue": 400
+  },
+  "Sensor-5": {
+    "enabled": true,
+    "ws_port": 6150,
+    "minValue": 401,
+    "maxValue": 500
+  },
+  "Sensor-6": {
+    "enabled": true,
+    "ws_port": 6160,
+    "minValue": 501,
+    "maxValue": 600
+  }
+}
